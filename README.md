@@ -2,4 +2,4 @@
 - 🌱 I’m a student at Brown University currently pursuing a B.S. in Computer Science and a B.A. in Visual Arts.
 - 👀 Specializing in Software Principles and Visual Computing!
 - 💞️ I’m passionate about accesibility, education, and sustainability.
-- 📫 Email me anytime: claire_yang@brown.edu
+- 📫 Email me anytime: claire_yang@brown.edu.
