@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @clxyang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-clxyang/clxyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Claire.
+- 🌱 I’m a student at Brown University currently pursuing a B.S. in Computer Science and a B.A. in Visual Arts.
+- 👀 Specializing in Software Principles and Visual Computing!
+- 💞️ I’m passionate about accesibility, education, and sustainability.
+- 📫 Email me anytime: claire_yang@brown.edu
